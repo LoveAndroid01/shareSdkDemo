@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ImageDemo</string>
+    <string name="share">一键分享</string>
+    <string name="activity_my_action_share">分享</string>
+    <string name="activity_my_action_share_to">分享到</string>
+    <string name="activity_my_action_share_to_qq">QQ</string>
+    <string name="activity_my_action_share_to_qzone">空间</string>
+    <string name="activity_my_action_share_to_wx">微信</string>
+    <string name="activity_my_action_share_to_xlwb">新浪微博</string>
+    <string name="activity_my_action_share_to_wx_friend">朋友圈</string>
+    <string name="activity_my_action_share_to_copy">复制链接</string>
+</resources>
